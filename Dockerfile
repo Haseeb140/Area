@@ -1,3 +1,4 @@
+#base image of ubuntu
 FROM ubuntu
 
 ADD Area.py /
